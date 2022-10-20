@@ -225,3 +225,20 @@ p{
     border-radius: 20px;
     display: flex;
 }
+
+.page1{
+    border: dashed;
+    border-radius: 20px;
+}
+.page2{
+    border: dashed;
+    border-radius: 20px;
+}
+.page3{
+    border: dashed;
+    border-radius: 20px;
+}
+.page4{
+    border: dashed;
+    border-radius: 20px;
+}
