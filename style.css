@@ -228,17 +228,21 @@ p{
 
 .page1{
     border: dashed;
+    margin: 20px;
     border-radius: 20px;
 }
 .page2{
     border: dashed;
+    margin: 20px;
     border-radius: 20px;
 }
 .page3{
     border: dashed;
+    margin: 20px;
     border-radius: 20px;
 }
 .page4{
     border: dashed;
+    margin: 20px;
     border-radius: 20px;
 }
